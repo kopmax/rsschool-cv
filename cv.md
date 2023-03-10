@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [rsschool-cv](https://github.com/kopmax/rsschool-cv/blob/gh-pages/cv.md)
 ***
 
@@ -43,4 +44,6 @@ console.log('Hello RS - School!!!')
 
 
 
+=======
+>>>>>>> 84ecfa630e3a52be17088038015f8c103d274cfe
 
