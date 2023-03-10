@@ -13,7 +13,8 @@
 ***
 
 ## About Myself:
-
+I graduated from the Vyatka State University, currently I work as an electronic engineer at an enterprise providing services for the automation of production processes.
+My goal is to gain knowledge in the field of front-end development, and either completely change the field of activity or apply the acquired skills in the current field of activity.
 ***
 
 ## Skills and Proficiency:
