@@ -20,6 +20,7 @@ My goal is to gain knowledge in the field of front-end development, and either c
 ## Skills and Proficiency:
 * HTML5, CSS3 
 * JavaScript Basics
+* Git
 ***
 
 ## Code example:
